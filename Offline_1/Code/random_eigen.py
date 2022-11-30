@@ -2,7 +2,6 @@ import numpy as np
 
 limit = 100         # range of integers to be generated
 tolerance = 1e-06   # teolrance of error
-dim = 3             # dimension of matrix
 
 # Generate a Random Invertible Matrix of integers
 # In mathematics, a square matrix is said to be diagonally dominant if, 
@@ -17,20 +16,26 @@ def generate_invertible_matrix(n):
     np.fill_diagonal(matrix, row_sums)
     return matrix
     
-def check_reconstruction(M, eigen_values, eigen_vectors):
+# Matrix reconstruction is done with the following formula: 
+# A = V . diag(λ) . V^−1.
+def reconstruct(eigen_values, eigen_vectors):
     lambda_matrix = np.diag(eigen_values)
     inv_eigenvector = np.linalg.inv(eigen_vectors)
     reconstructed_matrix = np.matmul(lambda_matrix, inv_eigenvector)
     reconstructed_matrix = np.matmul(eigen_vectors, reconstructed_matrix)
+    return reconstructed_matrix
     
-    print(f'Reconstructed Matrix : \n {reconstructed_matrix}')
-    print(f'Is Reconstruction Perfect? : {np.allclose(M, reconstructed_matrix, tolerance)}')
  
  
 # ----------- driver function --------------- #
+dim = int(input("Enter the dimension of the matrix : "))
+
 M = generate_invertible_matrix(dim)
+eigen_values, eigen_vectors = np.linalg.eig(M)      # break the matrix into eigen values and eigen vectors
+reconstructed_matrix = reconstruct(eigen_values, eigen_vectors)
+
 print(f'Generated Matrix : \n {M}')
-eigen_values, eigen_vectors = np.linalg.eig(M)
 print(f'Eigen Values : \n {eigen_values}')
 print(f'Eigen Vectors : \n {eigen_vectors}')
-check_reconstruction(M, eigen_values, eigen_vectors)
+print(f'Reconstructed Matrix : \n {reconstructed_matrix}')
+print(f'Is Reconstruction Perfect? : {np.allclose(M, reconstructed_matrix, tolerance)}')
