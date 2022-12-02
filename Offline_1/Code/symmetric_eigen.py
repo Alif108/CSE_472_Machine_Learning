@@ -30,8 +30,8 @@ M = generate_symmetrical_invertible_matrix(dim)
 eigen_values, eigen_vectors = np.linalg.eig(M)      # break the matrix into eigen values and eigen vectors
 reconstructed_matrix = reconstruct(eigen_values, eigen_vectors)
 
-print(f'Generated Matrix : \n {M}')
-print(f'Eigen Values : \n {eigen_values}')
-print(f'Eigen Vectors : \n {eigen_vectors}')
-print(f'Reconstructed Matrix \n {reconstructed_matrix}')
-print(f'Is Reconstruction Perfect? : {np.allclose(M, reconstructed_matrix, tolerance)}')
+print(f'Generated Matrix : \n {M} \n')
+print(f'Eigen Values : \n {eigen_values} \n')
+print(f'Eigen Vectors : \n {eigen_vectors} \n')
+print(f'Reconstructed Matrix \n {reconstructed_matrix} \n')
+print(f'Is Reconstruction Perfect? : {np.allclose(M, reconstructed_matrix, tolerance)} \n')
