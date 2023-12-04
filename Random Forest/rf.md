@@ -57,6 +57,24 @@ We can run random forest regressions in various programs such as SAS, R, and pyt
 
 Although random forest regression and linear regression follow the same concept, they differ in terms of functions. The function of linear regression is y=bx + c, where y is the dependent variable, x is the independent variable, b is the estimation parameter, and c is a constant. The function of a complex random forest regression is like a blackbox. It’s difficult to understand the relationship between the dependent and independent variables.
 
+### Ensemble Techniques
+Random Forest uses bagging (Bootstrap Aggregating) as its ensemble technique, not boosting.
+
+Here's a brief explanation of both bagging and boosting:
+
+#### Bagging (Bootstrap Aggregating):
+
+Bagging is an ensemble method that builds multiple instances of a base model, each trained on a random subset (with replacement) of the training data. The idea is to reduce variance and improve generalization by averaging or combining the predictions of multiple models. Each model in the ensemble has an equal vote in the final prediction.
+
+In the context of Random Forest, bagging is applied to decision trees. The Random Forest algorithm builds a collection (or forest) of decision trees, where each tree is trained on a random subset of the training data and features. The final prediction is made by averaging (for regression) or voting (for classification) across all trees.
+
+#### Boosting:
+
+Boosting is another ensemble method, but it works differently from bagging. Boosting sequentially trains weak learners (models that perform slightly better than random chance) and gives more emphasis to instances that the previous models misclassified. Each subsequent model focuses on the mistakes of the previous ones, leading to a strong learner.
+
+Examples of boosting algorithms include AdaBoost, Gradient Boosting, and XGBoost.
+<img src="img/bag_vs_boost.png" width=500 height=500/>
+
 ### Applications of random forest
 Some of the applications of the random forest may include:
 
