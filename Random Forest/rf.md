@@ -24,8 +24,7 @@ Decision trees are the building blocks of a random forest algorithm. A decision 
 
 A decision tree consists of three components: decision nodes, leaf nodes, and a root node. A decision tree algorithm divides a training dataset into branches, which further segregate into other branches. This sequence continues until a leaf node is attained. The leaf node cannot be segregated further.
 
-The nodes in the decision tree represent attributes that are used for predicting the outcome. Decision nodes provide a link to the leaves. The following diagram shows the three types of nodes in a decision tree.
-
+The nodes in the decision tree represent attributes that are used for predicting the outcome. Decision nodes provide a link to the leaves. The following diagram shows the three types of nodes in a decision tree. <br>
 <img src="img/decision-tree-nodes.png" width=500 height=500/>
 
 Entropy is a metric for calculating uncertainty. Information gain is a measure of how uncertainty in the target variable is reduced, given a set of independent variables.
@@ -42,12 +41,12 @@ Bagging involves using different samples of data (training data) rather than jus
 ### Classification in random forests
 Classification in random forests employs an ensemble methodology to attain the outcome. The training data is fed to train various decision trees. This dataset consists of observations and features that will be selected randomly during the splitting of nodes.
 
-A rain forest system relies on various decision trees. Every decision tree consists of decision nodes, leaf nodes, and a root node. The leaf node of each tree is the final output produced by that specific decision tree. The selection of the final output follows the majority-voting system. In this case, the output chosen by the majority of the decision trees becomes the final output of the rain forest system. The diagram below shows a simple random forest classifier.
+A rain forest system relies on various decision trees. Every decision tree consists of decision nodes, leaf nodes, and a root node. The leaf node of each tree is the final output produced by that specific decision tree. The selection of the final output follows the majority-voting system. In this case, the output chosen by the majority of the decision trees becomes the final output of the rain forest system. The diagram below shows a simple random forest classifier. <br>
 <img src="img/random-forest-classifier.png" width=500 height=500/>
 
 Let’s take an example of a training dataset consisting of various fruits such as bananas, apples, pineapples, and mangoes. The random forest classifier divides this dataset into subsets. These subsets are given to every decision tree in the random forest system. Each decision tree produces its specific output. For example, the prediction for trees 1 and 2 is apple.
 
-Another decision tree (n) has predicted banana as the outcome. The random forest classifier collects the majority voting to provide the final prediction. The majority of the decision trees have chosen apple as their prediction. This makes the classifier choose apple as the final prediction.
+Another decision tree (n) has predicted banana as the outcome. The random forest classifier collects the majority voting to provide the final prediction. The majority of the decision trees have chosen apple as their prediction. This makes the classifier choose apple as the final prediction. <br>
 <img src="img/example-of-random-forest-classifier.png" width=500 height=500/>
 
 ### Regression in random forests
@@ -72,8 +71,8 @@ In the context of Random Forest, bagging is applied to decision trees. The Rando
 
 Boosting is another ensemble method, but it works differently from bagging. Boosting sequentially trains weak learners (models that perform slightly better than random chance) and gives more emphasis to instances that the previous models misclassified. Each subsequent model focuses on the mistakes of the previous ones, leading to a strong learner.
 
-Examples of boosting algorithms include AdaBoost, Gradient Boosting, and XGBoost.
-<img src="img/bag_vs_boost.png" width=500 height=500/>
+Examples of boosting algorithms include AdaBoost, Gradient Boosting, and XGBoost. <br>
+<img src="img/bag_vs_boost.png" width=500 height=400/>
 
 ### Applications of random forest
 Some of the applications of the random forest may include:
