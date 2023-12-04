@@ -1,0 +1,1 @@
+<i>Clustering is known as unsupervised learning because the class label information is not present. For this reason, clustering is a form of learning by observation, rather than learning by examples.</i>
