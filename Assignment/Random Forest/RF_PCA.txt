@@ -1,0 +1,544 @@
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 10, Train Set Accuracy:0.9362246316374757, Test Set Accuracy: 0.9397590361445783, AUC Score: 0.8913246268656716
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 11, Train Set Accuracy:0.9301362246316375, Test Set Accuracy: 0.927710843373494, AUC Score: 0.8600746268656717
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 12, Train Set Accuracy:0.9362246316374757, Test Set Accuracy: 0.9397590361445783, AUC Score: 0.8913246268656716
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 13, Train Set Accuracy:0.9362246316374757, Test Set Accuracy: 0.9156626506024096, AUC Score: 0.8288246268656716
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 14, Train Set Accuracy:0.9392271337225465, Test Set Accuracy: 0.9156626506024096, AUC Score: 0.8526119402985075
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 15, Train Set Accuracy:0.9392549346677788, Test Set Accuracy: 0.9156626506024096, AUC Score: 0.8288246268656716
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 16, Train Set Accuracy:0.9362246316374757, Test Set Accuracy: 0.9156626506024096, AUC Score: 0.8526119402985075
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 17, Train Set Accuracy:0.9392549346677788, Test Set Accuracy: 0.9156626506024096, AUC Score: 0.8526119402985075
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 18, Train Set Accuracy:0.9392549346677788, Test Set Accuracy: 0.9156626506024096, AUC Score: 0.8526119402985075
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 19, Train Set Accuracy:0.9392827356130109, Test Set Accuracy: 0.9036144578313253, AUC Score: 0.7975746268656716
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 20, Train Set Accuracy:0.942340839588546, Test Set Accuracy: 0.927710843373494, AUC Score: 0.8600746268656717
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 21, Train Set Accuracy:0.9392549346677788, Test Set Accuracy: 0.927710843373494, AUC Score: 0.8600746268656717
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 22, Train Set Accuracy:0.9331943286071726, Test Set Accuracy: 0.9036144578313253, AUC Score: 0.7975746268656716
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 23, Train Set Accuracy:0.9361968306922436, Test Set Accuracy: 0.9036144578313253, AUC Score: 0.7975746268656716
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 24, Train Set Accuracy:0.9392549346677788, Test Set Accuracy: 0.9156626506024096, AUC Score: 0.8288246268656716
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 25, Train Set Accuracy:0.9392549346677788, Test Set Accuracy: 0.9156626506024096, AUC Score: 0.8288246268656716
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 26, Train Set Accuracy:0.9392549346677788, Test Set Accuracy: 0.9156626506024096, AUC Score: 0.8288246268656716
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 27, Train Set Accuracy:0.9392271337225466, Test Set Accuracy: 0.927710843373494, AUC Score: 0.8600746268656717
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 28, Train Set Accuracy:0.9392827356130109, Test Set Accuracy: 0.9156626506024096, AUC Score: 0.8288246268656716
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 29, Train Set Accuracy:0.9362246316374757, Test Set Accuracy: 0.9036144578313253, AUC Score: 0.7975746268656716
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 30, Train Set Accuracy:0.9331943286071726, Test Set Accuracy: 0.891566265060241, AUC Score: 0.7901119402985074
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 31, Train Set Accuracy:0.9392827356130109, Test Set Accuracy: 0.9156626506024096, AUC Score: 0.8288246268656716
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 32, Train Set Accuracy:0.9423130386433138, Test Set Accuracy: 0.9156626506024096, AUC Score: 0.8288246268656716
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 33, Train Set Accuracy:0.9362246316374757, Test Set Accuracy: 0.9156626506024096, AUC Score: 0.8288246268656716
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 34, Train Set Accuracy:0.9362246316374757, Test Set Accuracy: 0.9036144578313253, AUC Score: 0.7975746268656716
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 35, Train Set Accuracy:0.9422852376980817, Test Set Accuracy: 0.9036144578313253, AUC Score: 0.7975746268656716
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 36, Train Set Accuracy:0.9423130386433138, Test Set Accuracy: 0.927710843373494, AUC Score: 0.8600746268656717
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 37, Train Set Accuracy:0.9392549346677788, Test Set Accuracy: 0.9036144578313253, AUC Score: 0.7975746268656716
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 38, Train Set Accuracy:0.9362246316374757, Test Set Accuracy: 0.9036144578313253, AUC Score: 0.7975746268656716
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 39, Train Set Accuracy:0.9453433416736169, Test Set Accuracy: 0.9036144578313253, AUC Score: 0.7975746268656716
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 40, Train Set Accuracy:0.9361968306922436, Test Set Accuracy: 0.9036144578313253, AUC Score: 0.7975746268656716
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 41, Train Set Accuracy:0.9361968306922436, Test Set Accuracy: 0.9036144578313253, AUC Score: 0.7975746268656716
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 42, Train Set Accuracy:0.9362246316374757, Test Set Accuracy: 0.9036144578313253, AUC Score: 0.7975746268656716
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 43, Train Set Accuracy:0.9362246316374757, Test Set Accuracy: 0.9036144578313253, AUC Score: 0.7975746268656716
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 44, Train Set Accuracy:0.9240756185710314, Test Set Accuracy: 0.891566265060241, AUC Score: 0.7663246268656716
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 45, Train Set Accuracy:0.9301640255768696, Test Set Accuracy: 0.9036144578313253, AUC Score: 0.7975746268656716
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 46, Train Set Accuracy:0.9301084236864053, Test Set Accuracy: 0.9036144578313253, AUC Score: 0.7975746268656716
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 47, Train Set Accuracy:0.9331665276619404, Test Set Accuracy: 0.9036144578313253, AUC Score: 0.7975746268656716
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 48, Train Set Accuracy:0.9209897136502642, Test Set Accuracy: 0.9036144578313253, AUC Score: 0.7975746268656716
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 49, Train Set Accuracy:0.9271059216013344, Test Set Accuracy: 0.9036144578313253, AUC Score: 0.7975746268656716
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 50, Train Set Accuracy:0.9301362246316375, Test Set Accuracy: 0.9036144578313253, AUC Score: 0.7975746268656716
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 51, Train Set Accuracy:0.9362246316374757, Test Set Accuracy: 0.9036144578313253, AUC Score: 0.7975746268656716
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 52, Train Set Accuracy:0.9301362246316375, Test Set Accuracy: 0.9036144578313253, AUC Score: 0.7975746268656716
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 53, Train Set Accuracy:0.9331387267167085, Test Set Accuracy: 0.9036144578313253, AUC Score: 0.7975746268656716
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 54, Train Set Accuracy:0.923992215735335, Test Set Accuracy: 0.9036144578313253, AUC Score: 0.7975746268656716
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 55, Train Set Accuracy:0.9301084236864053, Test Set Accuracy: 0.9036144578313253, AUC Score: 0.7975746268656716
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 56, Train Set Accuracy:0.9210175145954963, Test Set Accuracy: 0.9036144578313253, AUC Score: 0.7975746268656716
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 57, Train Set Accuracy:0.9270781206561023, Test Set Accuracy: 0.9036144578313253, AUC Score: 0.7975746268656716
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 58, Train Set Accuracy:0.9179316096747291, Test Set Accuracy: 0.9036144578313253, AUC Score: 0.7975746268656716
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 59, Train Set Accuracy:0.9270503197108702, Test Set Accuracy: 0.9036144578313253, AUC Score: 0.7975746268656716
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 60, Train Set Accuracy:0.9271337225465666, Test Set Accuracy: 0.9036144578313253, AUC Score: 0.7975746268656716
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 61, Train Set Accuracy:0.9331387267167085, Test Set Accuracy: 0.9036144578313253, AUC Score: 0.7975746268656716
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 62, Train Set Accuracy:0.9148457047539617, Test Set Accuracy: 0.9036144578313253, AUC Score: 0.7737873134328359
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 63, Train Set Accuracy:0.9271059216013344, Test Set Accuracy: 0.9036144578313253, AUC Score: 0.7975746268656716
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 64, Train Set Accuracy:0.9240478176257994, Test Set Accuracy: 0.9036144578313253, AUC Score: 0.7975746268656716
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 65, Train Set Accuracy:0.9240200166805671, Test Set Accuracy: 0.9036144578313253, AUC Score: 0.7975746268656716
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 66, Train Set Accuracy:0.9270781206561023, Test Set Accuracy: 0.9036144578313253, AUC Score: 0.7975746268656716
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 67, Train Set Accuracy:0.9179316096747291, Test Set Accuracy: 0.9036144578313253, AUC Score: 0.7975746268656716
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 68, Train Set Accuracy:0.9241034195162636, Test Set Accuracy: 0.9036144578313253, AUC Score: 0.7975746268656716
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 69, Train Set Accuracy:0.920961912705032, Test Set Accuracy: 0.8795180722891566, AUC Score: 0.7350746268656716
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 70, Train Set Accuracy:0.923992215735335, Test Set Accuracy: 0.9036144578313253, AUC Score: 0.7975746268656716
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 71, Train Set Accuracy:0.9270781206561023, Test Set Accuracy: 0.891566265060241, AUC Score: 0.7663246268656716
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 72, Train Set Accuracy:0.9240478176257994, Test Set Accuracy: 0.9036144578313253, AUC Score: 0.7975746268656716
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 73, Train Set Accuracy:0.9179316096747291, Test Set Accuracy: 0.9156626506024096, AUC Score: 0.8050373134328359
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 74, Train Set Accuracy:0.9209897136502642, Test Set Accuracy: 0.9156626506024096, AUC Score: 0.78125
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 75, Train Set Accuracy:0.9271337225465666, Test Set Accuracy: 0.891566265060241, AUC Score: 0.7663246268656716
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 76, Train Set Accuracy:0.9209897136502642, Test Set Accuracy: 0.9036144578313253, AUC Score: 0.7975746268656716
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 77, Train Set Accuracy:0.9149013066444258, Test Set Accuracy: 0.9036144578313253, AUC Score: 0.7737873134328359
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 78, Train Set Accuracy:0.9301084236864053, Test Set Accuracy: 0.9036144578313253, AUC Score: 0.7975746268656716
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 79, Train Set Accuracy:0.9118154017236586, Test Set Accuracy: 0.9156626506024096, AUC Score: 0.8050373134328359
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 80, Train Set Accuracy:0.9118710036141229, Test Set Accuracy: 0.9156626506024096, AUC Score: 0.8050373134328359
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 81, Train Set Accuracy:0.9210175145954963, Test Set Accuracy: 0.9036144578313253, AUC Score: 0.7975746268656716
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 82, Train Set Accuracy:0.9271059216013344, Test Set Accuracy: 0.8795180722891566, AUC Score: 0.7350746268656716
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 83, Train Set Accuracy:0.9209341117597999, Test Set Accuracy: 0.9036144578313253, AUC Score: 0.7737873134328359
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 84, Train Set Accuracy:0.9301362246316375, Test Set Accuracy: 0.9036144578313253, AUC Score: 0.7975746268656716
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 85, Train Set Accuracy:0.923992215735335, Test Set Accuracy: 0.9156626506024096, AUC Score: 0.8050373134328359
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 86, Train Set Accuracy:0.9117876007784265, Test Set Accuracy: 0.891566265060241, AUC Score: 0.7425373134328358
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 87, Train Set Accuracy:0.9180150125104253, Test Set Accuracy: 0.9036144578313253, AUC Score: 0.7737873134328359
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 88, Train Set Accuracy:0.9149569085348902, Test Set Accuracy: 0.8674698795180723, AUC Score: 0.6800373134328358
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 89, Train Set Accuracy:0.9209897136502642, Test Set Accuracy: 0.9036144578313253, AUC Score: 0.7737873134328359
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 90, Train Set Accuracy:0.9270225187656381, Test Set Accuracy: 0.9036144578313253, AUC Score: 0.7737873134328359
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 91, Train Set Accuracy:0.905838198498749, Test Set Accuracy: 0.9036144578313253, AUC Score: 0.7737873134328359
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 92, Train Set Accuracy:0.9147901028634974, Test Set Accuracy: 0.891566265060241, AUC Score: 0.7425373134328358
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 93, Train Set Accuracy:0.9118432026688907, Test Set Accuracy: 0.891566265060241, AUC Score: 0.7425373134328358
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 94, Train Set Accuracy:0.917959410619961, Test Set Accuracy: 0.891566265060241, AUC Score: 0.71875
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 95, Train Set Accuracy:0.9149569085348902, Test Set Accuracy: 0.9036144578313253, AUC Score: 0.75
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 96, Train Set Accuracy:0.8966082846816792, Test Set Accuracy: 0.8795180722891566, AUC Score: 0.7112873134328358
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 97, Train Set Accuracy:0.9027244926327495, Test Set Accuracy: 0.891566265060241, AUC Score: 0.7663246268656716
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 98, Train Set Accuracy:0.9057825966082848, Test Set Accuracy: 0.891566265060241, AUC Score: 0.71875
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 99, Train Set Accuracy:0.9088963024742842, Test Set Accuracy: 0.9036144578313253, AUC Score: 0.7737873134328359
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 100, Train Set Accuracy:0.917959410619961, Test Set Accuracy: 0.9036144578313253, AUC Score: 0.7737873134328359
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 101, Train Set Accuracy:0.908868501529052, Test Set Accuracy: 0.8795180722891566, AUC Score: 0.7112873134328358
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 102, Train Set Accuracy:0.9058103975535169, Test Set Accuracy: 0.8795180722891566, AUC Score: 0.7112873134328358
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 103, Train Set Accuracy:0.9058103975535169, Test Set Accuracy: 0.891566265060241, AUC Score: 0.7425373134328358
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 104, Train Set Accuracy:0.9240478176257994, Test Set Accuracy: 0.9036144578313253, AUC Score: 0.7975746268656716
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 105, Train Set Accuracy:0.9149847094801223, Test Set Accuracy: 0.8795180722891566, AUC Score: 0.6875
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 106, Train Set Accuracy:0.9058103975535167, Test Set Accuracy: 0.8795180722891566, AUC Score: 0.7112873134328358
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 107, Train Set Accuracy:0.9027244926327495, Test Set Accuracy: 0.8795180722891566, AUC Score: 0.7112873134328358
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 108, Train Set Accuracy:0.9210175145954963, Test Set Accuracy: 0.9156626506024096, AUC Score: 0.8050373134328359
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 109, Train Set Accuracy:0.8875729774812343, Test Set Accuracy: 0.8674698795180723, AUC Score: 0.65625
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 110, Train Set Accuracy:0.8997497914929108, Test Set Accuracy: 0.8795180722891566, AUC Score: 0.6875
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 111, Train Set Accuracy:0.8966638865721435, Test Set Accuracy: 0.8795180722891566, AUC Score: 0.6875
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 112, Train Set Accuracy:0.896580483736447, Test Set Accuracy: 0.8795180722891566, AUC Score: 0.7112873134328358
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 113, Train Set Accuracy:0.88751737559077, Test Set Accuracy: 0.8674698795180723, AUC Score: 0.65625
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 114, Train Set Accuracy:0.9210175145954963, Test Set Accuracy: 0.891566265060241, AUC Score: 0.7663246268656716
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 115, Train Set Accuracy:0.8936057825966083, Test Set Accuracy: 0.891566265060241, AUC Score: 0.71875
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 116, Train Set Accuracy:0.9027244926327495, Test Set Accuracy: 0.891566265060241, AUC Score: 0.7425373134328358
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 117, Train Set Accuracy:0.9027244926327495, Test Set Accuracy: 0.891566265060241, AUC Score: 0.71875
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 118, Train Set Accuracy:0.8845426744509313, Test Set Accuracy: 0.891566265060241, AUC Score: 0.71875
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 119, Train Set Accuracy:0.8966360856269112, Test Set Accuracy: 0.8795180722891566, AUC Score: 0.6875
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 120, Train Set Accuracy:0.8936335835418404, Test Set Accuracy: 0.8554216867469879, AUC Score: 0.625
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 121, Train Set Accuracy:0.9028078954684459, Test Set Accuracy: 0.8795180722891566, AUC Score: 0.7112873134328358
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 122, Train Set Accuracy:0.9058103975535167, Test Set Accuracy: 0.891566265060241, AUC Score: 0.71875
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 123, Train Set Accuracy:0.8996663886572144, Test Set Accuracy: 0.9036144578313253, AUC Score: 0.75
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 124, Train Set Accuracy:0.9026966916875173, Test Set Accuracy: 0.8674698795180723, AUC Score: 0.6800373134328358
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 125, Train Set Accuracy:0.9058103975535169, Test Set Accuracy: 0.8674698795180723, AUC Score: 0.7038246268656716
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 126, Train Set Accuracy:0.9088963024742842, Test Set Accuracy: 0.8554216867469879, AUC Score: 0.6487873134328358
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 127, Train Set Accuracy:0.911898804559355, Test Set Accuracy: 0.8674698795180723, AUC Score: 0.6800373134328358
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 128, Train Set Accuracy:0.8753961634695581, Test Set Accuracy: 0.8554216867469879, AUC Score: 0.625
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 129, Train Set Accuracy:0.8936613844870726, Test Set Accuracy: 0.8674698795180723, AUC Score: 0.65625
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 130, Train Set Accuracy:0.8936613844870726, Test Set Accuracy: 0.8192771084337349, AUC Score: 0.53125
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 131, Train Set Accuracy:0.8966916875173756, Test Set Accuracy: 0.8433734939759037, AUC Score: 0.59375
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 132, Train Set Accuracy:0.9027522935779816, Test Set Accuracy: 0.891566265060241, AUC Score: 0.71875
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 133, Train Set Accuracy:0.8906310814567696, Test Set Accuracy: 0.8554216867469879, AUC Score: 0.6487873134328358
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 134, Train Set Accuracy:0.8996941896024465, Test Set Accuracy: 0.8795180722891566, AUC Score: 0.6875
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 135, Train Set Accuracy:0.8997219905476787, Test Set Accuracy: 0.8795180722891566, AUC Score: 0.7112873134328358
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 136, Train Set Accuracy:0.8874895746455379, Test Set Accuracy: 0.8674698795180723, AUC Score: 0.6800373134328358
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 137, Train Set Accuracy:0.9087572977481235, Test Set Accuracy: 0.8433734939759037, AUC Score: 0.59375
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 138, Train Set Accuracy:0.8966082846816792, Test Set Accuracy: 0.8795180722891566, AUC Score: 0.6875
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 139, Train Set Accuracy:0.8875729774812343, Test Set Accuracy: 0.8192771084337349, AUC Score: 0.53125
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 140, Train Set Accuracy:0.88751737559077, Test Set Accuracy: 0.8674698795180723, AUC Score: 0.6800373134328358
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 141, Train Set Accuracy:0.8753683625243257, Test Set Accuracy: 0.8433734939759037, AUC Score: 0.59375
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 142, Train Set Accuracy:0.8997775924381429, Test Set Accuracy: 0.8674698795180723, AUC Score: 0.65625
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 143, Train Set Accuracy:0.8723380594940228, Test Set Accuracy: 0.8795180722891566, AUC Score: 0.6875
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 144, Train Set Accuracy:0.8844036697247706, Test Set Accuracy: 0.8554216867469879, AUC Score: 0.625
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 145, Train Set Accuracy:0.905838198498749, Test Set Accuracy: 0.8433734939759037, AUC Score: 0.6175373134328358
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 146, Train Set Accuracy:0.8936613844870726, Test Set Accuracy: 0.8554216867469879, AUC Score: 0.625
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 147, Train Set Accuracy:0.9027522935779816, Test Set Accuracy: 0.8313253012048193, AUC Score: 0.5625
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 148, Train Set Accuracy:0.9027522935779816, Test Set Accuracy: 0.8674698795180723, AUC Score: 0.6800373134328358
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 149, Train Set Accuracy:0.8966638865721435, Test Set Accuracy: 0.8795180722891566, AUC Score: 0.6875
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 150, Train Set Accuracy:0.8875451765360022, Test Set Accuracy: 0.8433734939759037, AUC Score: 0.59375
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 151, Train Set Accuracy:0.8936335835418404, Test Set Accuracy: 0.891566265060241, AUC Score: 0.71875
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 152, Train Set Accuracy:0.8966638865721435, Test Set Accuracy: 0.8795180722891566, AUC Score: 0.7112873134328358
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 153, Train Set Accuracy:0.8966916875173756, Test Set Accuracy: 0.8795180722891566, AUC Score: 0.6875
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 154, Train Set Accuracy:0.8845148735056991, Test Set Accuracy: 0.8433734939759037, AUC Score: 0.59375
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 155, Train Set Accuracy:0.8784820683903253, Test Set Accuracy: 0.891566265060241, AUC Score: 0.71875
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 156, Train Set Accuracy:0.8783986655546289, Test Set Accuracy: 0.8433734939759037, AUC Score: 0.59375
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 157, Train Set Accuracy:0.8966916875173756, Test Set Accuracy: 0.8674698795180723, AUC Score: 0.65625
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 158, Train Set Accuracy:0.8936891854323047, Test Set Accuracy: 0.8795180722891566, AUC Score: 0.7112873134328358
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 159, Train Set Accuracy:0.8906032805115375, Test Set Accuracy: 0.8554216867469879, AUC Score: 0.625
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 160, Train Set Accuracy:0.8875729774812343, Test Set Accuracy: 0.8313253012048193, AUC Score: 0.5625
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 161, Train Set Accuracy:0.8936613844870726, Test Set Accuracy: 0.8795180722891566, AUC Score: 0.7112873134328358
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 162, Train Set Accuracy:0.8997775924381429, Test Set Accuracy: 0.891566265060241, AUC Score: 0.71875
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 163, Train Set Accuracy:0.8814289685849319, Test Set Accuracy: 0.8192771084337349, AUC Score: 0.53125
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 164, Train Set Accuracy:0.8784820683903253, Test Set Accuracy: 0.8554216867469879, AUC Score: 0.625
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 165, Train Set Accuracy:0.8722824576035585, Test Set Accuracy: 0.8192771084337349, AUC Score: 0.53125
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 166, Train Set Accuracy:0.8845148735056991, Test Set Accuracy: 0.8192771084337349, AUC Score: 0.5550373134328358
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 167, Train Set Accuracy:0.8753683625243257, Test Set Accuracy: 0.8433734939759037, AUC Score: 0.59375
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 168, Train Set Accuracy:0.8754517653600223, Test Set Accuracy: 0.8433734939759037, AUC Score: 0.59375
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 169, Train Set Accuracy:0.8905754795663053, Test Set Accuracy: 0.8433734939759037, AUC Score: 0.59375
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 170, Train Set Accuracy:0.8966916875173756, Test Set Accuracy: 0.8072289156626506, AUC Score: 0.5
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 171, Train Set Accuracy:0.8997497914929108, Test Set Accuracy: 0.8795180722891566, AUC Score: 0.7112873134328358
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 172, Train Set Accuracy:0.8906032805115375, Test Set Accuracy: 0.8554216867469879, AUC Score: 0.625
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 173, Train Set Accuracy:0.8844592716152349, Test Set Accuracy: 0.8072289156626506, AUC Score: 0.5
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 174, Train Set Accuracy:0.88751737559077, Test Set Accuracy: 0.8674698795180723, AUC Score: 0.65625
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 175, Train Set Accuracy:0.8905754795663053, Test Set Accuracy: 0.8433734939759037, AUC Score: 0.59375
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 176, Train Set Accuracy:0.884487072560467, Test Set Accuracy: 0.891566265060241, AUC Score: 0.71875
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 177, Train Set Accuracy:0.8997219905476787, Test Set Accuracy: 0.891566265060241, AUC Score: 0.7425373134328358
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 178, Train Set Accuracy:0.8967194884626077, Test Set Accuracy: 0.8795180722891566, AUC Score: 0.7112873134328358
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 179, Train Set Accuracy:0.8936613844870726, Test Set Accuracy: 0.8674698795180723, AUC Score: 0.65625
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 180, Train Set Accuracy:0.8723102585487906, Test Set Accuracy: 0.8433734939759037, AUC Score: 0.59375
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 181, Train Set Accuracy:0.8905754795663053, Test Set Accuracy: 0.8313253012048193, AUC Score: 0.5862873134328358
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 182, Train Set Accuracy:0.8906032805115375, Test Set Accuracy: 0.8674698795180723, AUC Score: 0.65625
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 183, Train Set Accuracy:0.8905476786210732, Test Set Accuracy: 0.8795180722891566, AUC Score: 0.6875
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 184, Train Set Accuracy:0.9028078954684459, Test Set Accuracy: 0.8674698795180723, AUC Score: 0.6800373134328358
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 185, Train Set Accuracy:0.8723380594940228, Test Set Accuracy: 0.8313253012048193, AUC Score: 0.5625
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 186, Train Set Accuracy:0.8814011676396998, Test Set Accuracy: 0.8313253012048193, AUC Score: 0.5625
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 187, Train Set Accuracy:0.8723658604392549, Test Set Accuracy: 0.8554216867469879, AUC Score: 0.625
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 188, Train Set Accuracy:0.8905198776758411, Test Set Accuracy: 0.8554216867469879, AUC Score: 0.6487873134328358
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 189, Train Set Accuracy:0.8845426744509313, Test Set Accuracy: 0.8554216867469879, AUC Score: 0.625
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
+n_components: 190, Train Set Accuracy:0.8632471504031137, Test Set Accuracy: 0.8072289156626506, AUC Score: 0.5
+
+Fitting 3 folds for each of 108 candidates, totalling 324 fits
